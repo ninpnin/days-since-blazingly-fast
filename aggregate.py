@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
 import json
 
-columns = ["name", "full_name", "description", "created_at", "pushed_at"]
+columns = ["name", "full_name", "description", "created_at", "pushed_at", "language"]
 rows = []
 for p in Path("data").glob("results*.json"):
     with p.open() as f:

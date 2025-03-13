@@ -1,16 +1,16 @@
 name,full_name,description,created_at,pushed_at,language,is_rust
 funzzy,cristianoliveira/funzzy,A lightweight blazingly fast file watcher.,2016-03-21T20:15:36Z,2025-02-20T15:14:20Z,Rust,True
-odict,TheOpenDictionary/odict,"A blazingly-fast, offline-first format and toolchain for lexical data ",2017-07-03T04:47:38Z,2025-03-10T10:13:12Z,Rust,True
-martin,maplibre/martin,"Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.",2017-09-30T10:53:46Z,2025-03-12T03:40:04Z,Rust,True
+odict,TheOpenDictionary/odict,"A blazingly-fast, offline-first format and toolchain for lexical data ",2017-07-03T04:47:38Z,2025-03-13T03:03:30Z,Rust,True
+martin,maplibre/martin,"Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.",2017-09-30T10:53:46Z,2025-03-12T16:33:41Z,Rust,True
 iced,icedland/iced,"Blazing fast and correct x86/x64 disassembler, assembler, decoder, encoder for Rust, .NET, Java, Python, Lua",2018-09-07T19:30:25Z,2025-03-11T08:38:37Z,Rust,True
-devolutions-gateway,Devolutions/devolutions-gateway,A blazing fast relay server adaptable to different protocols and desired levels of traffic inspection.,2018-12-18T18:39:09Z,2025-03-12T01:44:07Z,Rust,True
+devolutions-gateway,Devolutions/devolutions-gateway,A blazing fast relay server adaptable to different protocols and desired levels of traffic inspection.,2018-12-18T18:39:09Z,2025-03-12T12:09:00Z,Rust,True
 starship,starship/starship,"  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",2019-04-02T03:23:12Z,2025-03-11T02:59:05Z,Rust,True
 dashmap,xacrimon/dashmap,Blazing fast concurrent HashMap for Rust.,2019-12-06T21:48:39Z,2025-03-05T17:00:25Z,Rust,True
 gitui,gitui-org/gitui,Blazing  fast terminal-ui for git written in rust ,2020-03-16T14:38:01Z,2025-03-11T08:19:20Z,Rust,True
 deno_lint,denoland/deno_lint,Blazing fast linter for JavaScript and TypeScript written in Rust,2020-03-28T12:31:24Z,2025-03-06T07:58:27Z,Rust,True
 bld,Kani-Maki-Gang/bld,A simple and BLAZINGLY fast CI/CD in the making,2020-08-31T19:59:00Z,2025-02-10T07:53:45Z,Rust,True
 t-rec-rs,sassman/t-rec-rs,Blazingly fast terminal recorder that generates animated gif images for the web written in rust,2020-10-08T23:16:40Z,2025-03-10T10:42:25Z,Rust,True
-qsv,dathere/qsv,Blazing-fast Data-Wrangling toolkit,2020-12-11T04:08:39Z,2025-03-12T02:41:20Z,Rust,True
+qsv,dathere/qsv,Blazing-fast Data-Wrangling toolkit,2020-12-11T04:08:39Z,2025-03-12T22:40:23Z,Rust,True
 blog,khuedoan/blog,"My personal website (written in Rust, blazingly fast, deployed on Kubernetes, <insert a bunch of random buzzwords here>, just lack content)",2020-12-26T07:53:02Z,2025-03-06T05:34:59Z,Rust,True
 lemons,mendess/lemons,A blazingly fast lemonbar wrapper written in rust,2021-02-19T02:41:36Z,2025-03-08T18:08:14Z,Rust,True
 advent-of-code,MeanderingProgrammer/advent-of-code,Advent of Code - All Years - Blazingly Fast,2021-03-24T23:38:18Z,2025-03-06T04:56:04Z,Rust,True
@@ -18,30 +18,30 @@ robin,cesarferreira/robin,JSON driven CLI tool  (Blazing fast  Rust based),2021-
 parallel-disk-usage,KSXGitHub/parallel-disk-usage,"Highly parallelized, blazing fast directory tree analyzer",2021-05-16T07:03:18Z,2025-02-11T05:12:16Z,Rust,True
 blaze,kwai/blaze,Blazing-fast query execution engine speaks Apache Spark language and has Arrow-DataFusion at its core.,2021-06-28T07:29:43Z,2025-03-11T09:12:18Z,Rust,True
 imbl,jneem/imbl,Blazing fast immutable collection datatypes for Rust.,2021-08-06T16:40:40Z,2025-02-12T07:17:33Z,Rust,True
-foundry,foundry-rs/foundry,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",2021-09-08T11:23:11Z,2025-03-12T06:34:03Z,Rust,True
+foundry,foundry-rs/foundry,"Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",2021-09-08T11:23:11Z,2025-03-13T06:30:14Z,Rust,True
 core,StardustXR/core,"libstardustxr, written from scratch blazingly fast in Rust!",2022-04-30T05:52:17Z,2025-03-01T05:21:05Z,Rust,True
 server,StardustXR/server,"Stardust XR Reference Server, now blazingly fast in Rust :D",2022-05-12T03:49:39Z,2025-03-04T08:20:24Z,Rust,True
-pulsar,exein-io/pulsar,"A modular and blazing fast runtime security tool for the IoT, powered by eBPF.",2022-06-18T15:38:05Z,2025-03-11T10:11:54Z,Rust,True
+pulsar,exein-io/pulsar,"A modular and blazing fast runtime security tool for the IoT, powered by eBPF.",2022-06-18T15:38:05Z,2025-03-12T23:14:08Z,Rust,True
 fidget,mkeeter/fidget,blazing fast implicit surface evaluation,2022-06-24T23:12:47Z,2025-03-09T19:55:28Z,Rust,True
 rsonpath,rsonquery/rsonpath,Blazing fast JSONPath query engine written in Rust.,2022-07-09T13:28:54Z,2025-03-11T20:49:03Z,Rust,True
 rumdb,alexyer/rumdb,Blazing fast log-structured key-value storage based on Bitcask[1] whitepaper.,2022-07-12T16:12:12Z,2025-02-26T12:26:40Z,Rust,True
 termv-rs,Roshan-R/termv-rs,Termv. Now blazingly fast ,2022-08-02T15:25:56Z,2025-02-14T06:38:40Z,Rust,True
 gb_lang,shakesbeare/gb_lang,"A ""blazingly fast"" interpreted language written in rust as an exercise.",2022-08-06T16:01:53Z,2025-03-07T23:10:26Z,Rust,True
 tchatchers,nag763/tchatchers,tchatchers is a blazing fast chat application built with Axum and Yew.rs,2022-08-27T08:49:18Z,2025-03-08T09:31:31Z,Rust,True
-reth,paradigmxyz/reth,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",2022-09-15T23:05:57Z,2025-03-12T02:38:56Z,Rust,True
+reth,paradigmxyz/reth,"Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",2022-09-15T23:05:57Z,2025-03-12T23:47:03Z,Rust,True
 ityfuzz,fuzzland/ityfuzz,Blazing Fast Bytecode-Level Hybrid Fuzzer for Smart Contracts,2022-10-25T00:09:33Z,2025-02-14T02:31:38Z,Rust,True
 chhoto-url,SinTan1729/chhoto-url,"A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust.",2022-11-21T01:37:06Z,2025-03-05T21:56:35Z,Rust,True
-starkli,xJonathanLEI/starkli,"Starkli (/strkla/), a  blazing  fast  CLI tool for Starknet powered by  starknet-rs ",2022-11-23T04:41:50Z,2025-03-11T14:12:44Z,Rust,True
-gh-backup,maxammann/gh-backup,Blazingly fast tool to backup a Github organisation (written in Rust),2022-11-26T16:46:32Z,2025-02-04T12:07:56Z,Rust,True
+starkli,xJonathanLEI/starkli,"Starkli (/strkla/), a  blazing  fast  CLI tool for Starknet powered by  starknet-rs ",2022-11-23T04:41:50Z,2025-03-12T17:24:03Z,Rust,True
 Fetchy,ClementNerma/Fetchy,A basic but blazingly fast and simple file-based package manager,2022-12-02T09:57:52Z,2025-03-07T13:13:08Z,Rust,True
-year-progress,mbacalan/year-progress,Years are passing blazingly fast,2023-03-03T21:28:04Z,2025-03-12T01:24:41Z,Rust,True
-haylxon,pwnwriter/haylxon, Blazing-fast tool to grab screenshots of your domain list right from terminal. ,2023-03-19T04:47:43Z,2025-03-12T03:09:31Z,Rust,True
+year-progress,mbacalan/year-progress,Years are passing blazingly fast,2023-03-03T21:28:04Z,2025-03-13T01:26:20Z,Rust,True
+haylxon,pwnwriter/haylxon, Blazing-fast tool to grab screenshots of your domain list right from terminal. ,2023-03-19T04:47:43Z,2025-03-13T03:26:38Z,Rust,True
 3x1l,exil0867/3x1l,"My Personal page web app written in Rust with Yew framework, WebAssembly and Trunk for blazing fast performance. (migrated from React)",2023-04-02T03:03:34Z,2025-03-07T02:45:47Z,Rust,True
+pe-parser,IsaacMarovitz/pe-parser,"PE Parsing, but blazing fast",2023-04-11T17:44:02Z,2025-03-12T19:03:15Z,Rust,True
 solar,paradigmxyz/solar,"Blazingly fast, modular and contributor friendly Solidity compiler, written in Rust",2023-04-21T18:39:28Z,2025-03-10T08:01:43Z,Rust,True
 markdown-it-pyrs,chrisjsewell/markdown-it-pyrs,"A Python interface for markdown-it.rs, using Rust for blazingly fast parsing  ",2023-06-08T11:59:45Z,2025-03-10T20:31:41Z,Rust,True
 vertex,nullisxyz/vertex,"Blazing-fast, modular Ethereum Swarm client in Rust",2023-06-17T09:42:13Z,2025-03-06T05:00:26Z,Rust,True
-bevy_lunex,bytestring-net/bevy_lunex,Blazingly fast retained layout engine for Bevy ECS.,2023-06-26T20:44:39Z,2025-03-12T08:40:11Z,Rust,True
-starknet-foundry,foundry-rs/starknet-foundry,Blazing fast toolkit for developing Starknet contracts.,2023-07-05T22:27:04Z,2025-03-12T08:09:19Z,Rust,True
+bevy_lunex,bytestring-net/bevy_lunex,Blazingly fast retained layout engine for Bevy ECS.,2023-06-26T20:44:39Z,2025-03-12T10:13:49Z,Rust,True
+starknet-foundry,foundry-rs/starknet-foundry,Blazing fast toolkit for developing Starknet contracts.,2023-07-05T22:27:04Z,2025-03-12T23:12:36Z,Rust,True
 yazi,sxyazi/yazi," Blazing fast terminal file manager written in Rust, based on async I/O.",2023-07-08T11:45:55Z,2025-03-12T06:33:56Z,Rust,True
 brontes,SorellaLabs/brontes,A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection,2023-07-11T13:01:46Z,2025-03-07T02:53:40Z,Rust,True
 ciphercanvas,walker84837/ciphercanvas,CipherCanvas is a blazingly fast Wi-Fi QR code generator.,2023-07-31T16:47:13Z,2025-03-12T06:57:46Z,Rust,True
@@ -60,46 +60,46 @@ lqth,0x61nas/lqth, Simple but blazingly fast screenshot utility,2023-12-11T21:50
 rindexer,joshstevens19/rindexer,A no-code or framework to build blazing fast EVM indexers - built in rust.,2023-12-26T23:24:26Z,2025-03-06T14:10:35Z,Rust,True
 hypertext,vidhanio/hypertext,A blazing fast type-checked HTML macro crate.,2024-01-12T03:34:30Z,2025-03-12T06:29:11Z,Rust,True
 blazingly_fast_rust_donut,Inc44/blazingly_fast_rust_donut,Blazingly Fast 3D ASCII Rust Spinning Donut  (2000+ FPS on a 5 year old CPU),2024-02-14T20:49:04Z,2025-03-01T07:11:17Z,Rust,True
-mistral.rs,EricLBuehler/mistral.rs,Blazingly fast LLM inference.,2024-02-26T22:30:06Z,2025-03-12T03:11:21Z,Rust,True
+mistral.rs,EricLBuehler/mistral.rs,Blazingly fast LLM inference.,2024-02-26T22:30:06Z,2025-03-13T02:50:56Z,Rust,True
 retch,Dlurak/retch,A simple and blazingly fast system fetcher,2024-03-05T20:38:01Z,2025-03-08T18:16:00Z,Rust,True
 cacheus,ogxd/cacheus,Blazingly fast and ultra-efficient multi-protocol read-through caching proxy.,2024-03-06T09:58:10Z,2025-02-09T23:34:58Z,Rust,True
 stud-ip-scraper,RedstoneMedia/stud-ip-scraper,A blazingly fast  library for interacting with Stud.IP  written in Rust ,2024-03-08T15:17:33Z,2025-02-27T23:52:35Z,Rust,True
 anti-spam-matrix,mokurin000/anti-spam-matrix,A Matrix Bot to ban spammers that runs blazingly fast ,2024-03-31T01:40:07Z,2025-03-10T18:45:25Z,Rust,True
 pevm,risechain/pevm,Blazingly fast Parallel EVM,2024-04-05T03:15:02Z,2025-02-23T18:30:25Z,Rust,True
 acronym-lookup,mfurak/acronym-lookup,Blazingly fast CLI tool for looking up acronyms,2024-04-05T11:33:29Z,2025-03-01T19:44:49Z,Rust,True
-chalkydri,chalkydri/chalkydri,A blazingly fast FRC vision system built from the ground up in Rust,2024-04-08T02:07:29Z,2025-03-10T20:50:16Z,Rust,True
+chalkydri,chalkydri/chalkydri,A blazingly fast FRC vision system built from the ground up in Rust,2024-04-08T02:07:29Z,2025-03-13T04:03:04Z,Rust,True
 hanoi-speedrapp,SpeckyYT/hanoi-speedrapp,Blazingly fast Tower of Hanoi speedrunning app,2024-04-24T18:53:30Z,2025-03-06T17:29:12Z,Rust,True
 ripmors,qsantos/ripmors,Blazingly fast Morse code encoding/decoding,2024-05-06T20:29:21Z,2025-02-23T21:11:37Z,Rust,True
 sap,MOZGIII/sap,Opinionated HTTP server for hosting static files of Single Page Apps from memory with blazing fast speeds,2024-05-20T05:50:38Z,2025-03-10T10:58:46Z,Rust,True
-seismic-foundry,SeismicSystems/seismic-foundry,"Seismic Foundry is a fork of Foundry: a blazing fast, portable and modular toolkit for Ethereum application development written in Rust",2024-06-18T15:38:56Z,2025-03-12T08:40:46Z,Rust,True
+seismic-foundry,SeismicSystems/seismic-foundry,"Seismic Foundry is a fork of Foundry: a blazing fast, portable and modular toolkit for Ethereum application development written in Rust",2024-06-18T15:38:56Z,2025-03-12T15:19:37Z,Rust,True
 pedoni,qt2/pedoni,Bachelor's thesis: Blazingly fast crowd simulator for pedestrian dynamics,2024-06-25T10:27:11Z,2025-02-17T06:28:31Z,Rust,True
-rbuilder,flashbots/rbuilder,"rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust",2024-07-01T07:26:00Z,2025-03-11T21:11:50Z,Rust,True
-eambfc-rs,eliminmax/eambfc-rs, Eli Array Minkoff's BFC (Blazingly Fast Edition),2024-07-13T17:09:29Z,2025-03-10T02:59:18Z,Rust,True
+rbuilder,flashbots/rbuilder,"rbuilder is a blazingly fast, state of the art Ethereum MEV-Boost block builder written in Rust",2024-07-01T07:26:00Z,2025-03-13T06:18:21Z,Rust,True
+eambfc-rs,eliminmax/eambfc-rs, Eli Array Minkoff's BFC (Blazingly Fast Edition),2024-07-13T17:09:29Z,2025-03-12T15:46:01Z,Rust,True
 voxel,Aern-do/voxel, Blazingly fast voxel game engine written in Rust,2024-08-29T08:38:05Z,2025-02-12T10:02:48Z,Rust,True
 Axum_super_forms,Mahinkumar/Axum_super_forms,"A Self hostable, blazingly fast forms solution built with Rust with a focus on simplicity and reliablity. Scales on Demand and includes a load balancer. ",2024-09-03T08:31:28Z,2025-03-03T16:51:35Z,Rust,True
 mangoloader,Sakooooo/mangoloader,Selfhosted Manga Downloader but it's  BLAZING FAST ,2024-09-03T14:51:43Z,2025-02-18T12:02:17Z,Rust,True
 rquest,0x676e67/rquest,A blazing-fast Rust HTTP Client with TLS fingerprint,2024-09-19T13:00:39Z,2025-03-12T06:35:10Z,Rust,True
-dex-mev-arbitrage-bot,solguru310/dex-mev-arbitrage-bot,"Dex MEV Arbitrage Bot: A blazing-fast MEV Arbitrage Bot built with Rust is now available as open-source, offering valuable insight into MEV strategies for aspiring developers.",2024-10-14T19:25:25Z,2025-02-04T12:38:38Z,Rust,True
 stormint,Confucian-e/stormint,A blazing fast crate that supports multi-account minting of FreeMint tokens,2024-10-24T09:26:18Z,2025-03-08T01:36:02Z,Rust,True
 Rust-Walkthrough,PJLys/Rust-Walkthrough,"This is me following the Rust Book from chapter 1 to 20. So by the end, I should be able to write blazingly fast code. I guess...",2024-10-28T07:35:37Z,2025-03-11T13:04:24Z,Rust,True
-trailbase,trailbaseio/trailbase,"A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8. ",2024-10-29T09:39:33Z,2025-03-12T08:37:09Z,Rust,True
+trailbase,trailbaseio/trailbase,"A blazingly fast, open-source application server with type-safe APIs, built-in JS/ES6/TS runtime, realtime, auth, and admin UI built on Rust, SQLite & V8. ",2024-10-29T09:39:33Z,2025-03-12T15:05:17Z,Rust,True
 rhb,ayn2op/rhb,Blazing fast Homebrew CLI,2024-10-30T02:48:09Z,2025-02-16T18:29:15Z,Rust,True
 skeletor,jasonnathan/skeletor,A blazing-fast Rust scaffolding tool for structured project generation and snapshots.,2024-11-03T14:56:03Z,2025-02-22T15:51:15Z,Rust,True
+deep-prove,Lagrange-Labs/deep-prove,Framework to prove inference of ML models blazingly fast,2024-11-07T21:46:12Z,2025-03-12T15:03:24Z,Rust,True
 BFTML,npetrangelo/BFTML,Blazingly Fast Text Markup Language. Standards designed for web apps. Browser implementation in Rust.,2024-11-19T05:43:01Z,2025-02-19T07:36:24Z,Rust,True
 altaria,SrGaabriel/altaria," |  Altaria is an asynchronous, memory-safe, lightweight and blazingly fast http server framework written in Rust",2024-12-03T21:48:16Z,2025-02-25T15:38:21Z,Rust,True
 aber,Amchik/aber, Blazingly fast language with high-level abstractions and i ,2024-12-06T20:23:02Z,2025-02-17T17:02:32Z,Rust,True
 rustor,Evren-os/rustor,A blazing fast fetch tool written in Rust,2024-12-12T06:42:11Z,2025-03-08T08:00:32Z,Rust,True
-karna,elliot14A/karna,"A blazingly fast web interface to query tabular files like CSV, TSV or parquet using SQL, GraphQL and Natural Language.",2024-12-14T10:07:30Z,2025-03-12T05:55:40Z,Rust,True
+karna,elliot14A/karna,"A blazingly fast web interface to query tabular files like CSV, TSV or parquet using SQL, GraphQL and Natural Language.",2024-12-14T10:07:30Z,2025-03-12T09:32:15Z,Rust,True
 flash,rrronit/flash,"Blazingly fast, secure code execution engine for multiple programming languages",2024-12-14T21:01:56Z,2025-03-04T08:52:21Z,Rust,True
 Weather_App_RS,VexPlayzGH/Weather_App_RS,A CLI weather app with blazingly fast results from the entire globe.,2024-12-20T13:54:07Z,2025-03-08T14:17:18Z,Rust,True
-Astra,ArkForgeLabs/Astra, Blazingly Fast  web server runtime for Lua,2024-12-21T08:17:31Z,2025-03-10T15:34:55Z,Rust,True
+Astra,ArkForgeLabs/Astra, Blazingly Fast  web server runtime for Lua,2024-12-21T08:17:31Z,2025-03-12T13:33:29Z,Rust,True
 BlazingBoard,wdroz/BlazingBoard,Blazing fast typing exercises online,2024-12-26T16:32:41Z,2025-02-23T14:53:06Z,Rust,True
 oxidasim,AndrejOrsula/oxidasim,Blazing fast utilities for simulations,2025-01-01T16:36:20Z,2025-03-03T06:38:29Z,Rust,True
 graphyr,minus1ms/graphyr,Blazingly fast tool for table-organized schema drawing with layers and history,2025-01-02T21:09:40Z,2025-02-20T20:18:53Z,Rust,True
 fvp-unpacker,Nikaidou-Shinku/fvp-unpacker,A blazing fast tool to unpack FVP archive.,2025-01-04T18:29:12Z,2025-03-11T05:13:48Z,Rust,True
 VoteSafe,drunisa007/VoteSafe,"Blazingly Fast, Memory-Safe, Secure Voting System written in Rust",2025-01-06T03:44:52Z,2025-02-09T11:11:23Z,Rust,True
 justified-layout,immich-app/justified-layout,"A blazingly fast implementation of justified layout, a gallery view popularized by Flickr, written in rust and exported to WASM.",2025-01-10T02:11:48Z,2025-02-27T14:28:02Z,Rust,True
-storb-rs,fr34kcoders/storb-rs,Storb but even more blazingly fast,2025-01-13T14:42:42Z,2025-03-12T08:33:42Z,Rust,True
+storb-rs,fr34kcoders/storb-rs,Storb but even more blazingly fast,2025-01-13T14:42:42Z,2025-03-13T08:05:26Z,Rust,True
 stats-cards,ilyhalight/stats-cards, Blazing fast stats cards for everything,2025-01-15T10:36:03Z,2025-02-20T22:52:43Z,Rust,True
 pls,mistrmochov/pls,"pls, Cli downloader written in blazingly fast rust!",2025-01-16T19:43:17Z,2025-02-18T19:24:40Z,Rust,True
 templaturr,templaturr/templaturr,Unopionated blazing fast templating engine,2025-01-25T09:06:47Z,2025-03-05T19:29:50Z,Rust,True
@@ -109,15 +109,14 @@ blazingly-fast,gurshaan17/blazingly-fast,,2025-02-01T08:56:15Z,2025-02-07T04:08:
 notlink,abdibrokhim/notlink,this is notlink - a blazingly fast url shortener ever built with rust programming language,2025-02-01T22:34:23Z,2025-02-27T22:12:10Z,Rust,True
 killa,rszyma/killa,Blazing fast process monitor for Linux (X and Wayland),2025-02-02T01:46:18Z,2025-02-14T20:34:51Z,Rust,True
 rfn,m4rn-progs/rfn,rfn (Right Fuckin' Now) - A Simple and Blazingly Fast Text Editor Written in Rust,2025-02-04T02:27:06Z,2025-03-10T11:55:52Z,Rust,True
-fastxlsx,shuangluoxss/fastxlsx,"A lightweight, high-performance Python library for blazing-fast XLSX I/O operations.",2025-02-04T03:12:51Z,2025-02-04T08:46:29Z,Rust,True
 daily-coding-problem-solutions,ColourfulMelon/daily-coding-problem-solutions,"Blazingly fast solutions to challenges from dailycodingproblem.com, written in rust",2025-02-08T19:17:29Z,2025-02-08T19:18:09Z,Rust,True
 sams,AnH0ang/sams,Sams (pronounced Zahms) is a blazingly fast dotfile manager written in Rust.,2025-02-10T07:56:53Z,2025-02-20T08:20:57Z,Rust,True
-rnet,0x676e67/rnet,A blazing-fast Python HTTP Client with TLS fingerprint,2025-02-10T10:37:00Z,2025-03-12T05:56:30Z,Rust,True
+rnet,0x676e67/rnet,A blazing-fast Python HTTP Client with TLS fingerprint,2025-02-10T10:37:00Z,2025-03-12T23:49:10Z,Rust,True
 Catalyst,GitanElyon/Catalyst,Catalyst is a blazingly fast lightweight code editor built in with a minimalist theme.,2025-02-10T20:12:43Z,2025-02-22T10:49:16Z,Rust,True
 hyprlauncher,Zuriefais/hyprlauncher,"GUI for launching applications, written in blazingly fast Rust!  ",2025-02-11T16:10:59Z,2025-03-06T14:21:55Z,Rust,True
 SPR-Reader,Javier-Romario/SPR-Reader,A blazingly fast speed reader - Made with love and Rust,2025-02-11T20:03:23Z,2025-02-12T23:46:37Z,Rust,True
 arbor,RoyAalekh/arbor,A blazing-fast and lightweight CLI tool to visualize directory structures in a tree format. Perfect for exploring file hierarchies with clarity and ease. ,2025-02-14T06:55:27Z,2025-02-14T07:40:43Z,Rust,True
-lintspec,beeb/lintspec,A blazingly fast linter for NatSpec comments in Solidity code,2025-02-14T12:44:21Z,2025-03-12T08:01:53Z,Rust,True
+lintspec,beeb/lintspec,A blazingly fast linter for NatSpec comments in Solidity code,2025-02-14T12:44:21Z,2025-03-13T06:14:29Z,Rust,True
 is_ai,wzulfikar/is_ai,Blazing fast AI content detector with Rust,2025-02-16T19:19:10Z,2025-02-16T19:21:10Z,Rust,True
 ur5_inverse_kinematics_rust,eld4niz/ur5_inverse_kinematics_rust,Blazingly Fast Inverse Kinematics Algorithm Implemented in Rust for 6 DoF Robots,2025-02-16T22:46:10Z,2025-02-16T22:54:19Z,Rust,True
 aerolattice,josephrhobbs/aerolattice,A blazingly fast aerodynamics package built for modern aerospace applications.,2025-02-17T18:49:29Z,2025-02-24T17:01:36Z,Rust,True
